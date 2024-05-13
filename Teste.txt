@@ -1,3 +1,4 @@
 Arquivo de texto para treinamento.
 Adicionando mais texto aqui para poder ver o funcionamento do git pelo vscode.
 Adicionando agora alterações via bash.
+Adicionando informações para fazer o pull via bash.
