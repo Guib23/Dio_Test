@@ -1,1 +1,2 @@
 Arquivo de texto para treinamento.
+Adicionando mais texto aqui para poder ver o funcionamento do git pelo vscode.
