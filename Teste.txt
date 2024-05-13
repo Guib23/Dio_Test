@@ -2,3 +2,5 @@ Arquivo de texto para treinamento.
 Adicionando mais texto aqui para poder ver o funcionamento do git pelo vscode.
 Adicionando agora alterações via bash.
 Adicionando informações para fazer o pull via bash.
+Adiconando mais uma linha para fazer um último commit pooiis deu tudo certo!.
+Hello World Git and GitHub.
